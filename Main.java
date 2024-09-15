@@ -31,7 +31,7 @@ public class Main {
             return;
         }
         // formatting input
-
+        
         for (String line : list) {
             StringBuilder resultLine = new StringBuilder(line);
             int resultLength = resultLine.length();
